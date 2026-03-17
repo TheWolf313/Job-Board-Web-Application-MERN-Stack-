@@ -1,6 +1,4 @@
-You want MERN, not a decorative React brochure. Good. That means you actually need a backend somewhere instead of pretending GitHub Pages can magically run Node.
-
-Here’s a **realistic, internship-safe README** that matches your task and uses free hosting properly.
+## Job Board Web Application (MERN Stack)
 
 ---
 
